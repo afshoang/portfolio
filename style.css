@@ -53,7 +53,7 @@ h1 {
 
 /* HEADER */
 .hero {
-  background: url('../images/welcome/pexels-stephan-seeber-1054218.jpg')
+  background: url('./images/welcome/pexels-stephan-seeber-1054218.jpg')
     no-repeat center center/cover;
   height: 100vh;
   color: #fff;
