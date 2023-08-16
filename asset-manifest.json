@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.7a0c9fb0.css",
+    "main.js": "/react-gh-pages/static/js/main.f867ea9b.js",
+    "static/js/787.a2cb61a6.chunk.js": "/react-gh-pages/static/js/787.a2cb61a6.chunk.js",
+    "static/media/raw-strength.png": "/react-gh-pages/static/media/raw-strength.836d786e326e52d3c811.png",
+    "static/media/react-native.svg": "/react-gh-pages/static/media/react-native.55360266b3781dae00a5a77c8916f82d.svg",
+    "static/media/mongodb.svg": "/react-gh-pages/static/media/mongodb.6cae7760a21945b9580e3493fdb2749d.svg",
+    "static/media/nodejs.svg": "/react-gh-pages/static/media/nodejs.f163cddfbfe49648deb1ce8917207b77.svg",
+    "static/media/mysql.svg": "/react-gh-pages/static/media/mysql.644af3df085f328417a5aebafe8d9414.svg",
+    "static/media/react.svg": "/react-gh-pages/static/media/react.c60e072461a29d9c38291223075ac016.svg",
+    "static/media/redux.svg": "/react-gh-pages/static/media/redux.bebc8109dd6da3549dec06ffcd75c844.svg",
+    "static/media/html.svg": "/react-gh-pages/static/media/html.02c11ebc3bf614b206106cbe9cba90fd.svg",
+    "static/media/javascript.svg": "/react-gh-pages/static/media/javascript.cb6c28ae8b07ac4ffe29cee2352650dd.svg",
+    "index.html": "/react-gh-pages/index.html",
+    "static/media/css.svg": "/react-gh-pages/static/media/css.4e47c3122b8d2476a02f97dcfcb28640.svg",
+    "main.7a0c9fb0.css.map": "/react-gh-pages/static/css/main.7a0c9fb0.css.map",
+    "main.f867ea9b.js.map": "/react-gh-pages/static/js/main.f867ea9b.js.map",
+    "787.a2cb61a6.chunk.js.map": "/react-gh-pages/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a0c9fb0.css",
+    "static/js/main.f867ea9b.js"
+  ]
+}
